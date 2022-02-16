@@ -4,8 +4,3 @@ mkdir portainer
 cd portainer
 touch docker-compose.yml
 mkdir data
-
-~/
-	portainer
-	- docker-compose.yml file
-		data
